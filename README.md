@@ -1,8 +1,9 @@
 ## Quantumult X 教程备忘录
-- lazyProfiles_QX-20200221.conf是根据[教程](https://merlinblog.xyz/wiki/quanx.html "教程")导入，且自己修改部分的全部配置备份（不含订阅）
-脚本[链接](https://github.com/yichahucha/surge/tree/master  "链接")      
-另一篇详解[教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917 "教程")
-#### 20200222
+1.  lazyProfiles_QX-20200221.conf是根据[教程](https://merlinblog.xyz/wiki/quanx.html "教程")导入，且自己修改部分的全部配置备份（不含订阅）
+1. 脚本[链接](https://github.com/yichahucha/surge/tree/master  "链接")      
+1. 另一篇详解[教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917 "教程")
+
+#### 更新于20200222
 - APP全部更新后，目前发现优酷可以正常播放，且无广告。但是京东无法显示历史价格。
 
 #### 更新于20200221
